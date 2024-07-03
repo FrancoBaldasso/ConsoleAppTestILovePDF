@@ -8,7 +8,7 @@ using LovePdf.Model.Enums;
 using System.Threading.Tasks;
 using LovePdf.Model.TaskParams.Edit;
 
-var api = new LovePdfApi("project_public_13a5b66430532571a996f01942409d15_p08uMa1ca225f9baa1a690fd562ab351ff000", "secret_key_dbf57f2dc3a2e50ae9190fc01feb2d77_XZ0bPc865edfd6f8eca86379337372bd583cf");
+var api = new LovePdfApi("", "");
 
 await SignAdvanced();
 //await SignManagment();
